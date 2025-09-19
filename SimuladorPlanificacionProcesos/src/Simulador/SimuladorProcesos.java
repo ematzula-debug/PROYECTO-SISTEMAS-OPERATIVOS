@@ -7,8 +7,8 @@ package Simulador;
 
 /**
  *
- * @author ccajb
+ * @author HP
  */
-public class Planificador {
+public class SimuladorProcesos {
     
 }
