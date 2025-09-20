@@ -1,0 +1,12 @@
+# Ignorar configuración local de NetBeans
+nbproject/private/
+nbproject/build.properties
+
+# Ignorar carpetas de compilación
+build/
+dist/
+
+# Ignorar archivos temporales
+*.log
+*.class
+*.jar
